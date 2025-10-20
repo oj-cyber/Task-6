@@ -1,8 +1,8 @@
 public class electricCar extends Car{
     private String beep;
 
-    public electricCar(String brand, String speed, String beep) {
-        super(brand, speed);
+    public electricCar(String brand, String speed, String beep,String speedlimit) {
+        super(brand, speed,speedlimit);
         this.beep = beep;
     }
 
