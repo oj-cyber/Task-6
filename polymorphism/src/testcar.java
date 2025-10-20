@@ -24,7 +24,7 @@ public class testcar {
         System.out.println("-------Sports car-------");
         SportsCar sports=new SportsCar("Monster Track","150km/h","1st","David.J","300km/h");
         sports.start();
-        sports.displayInfo("Made in America");
+        sports.displayInfo("Made in America NewYork");
         testcar(sports);
     }
 
