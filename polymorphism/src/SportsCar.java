@@ -12,6 +12,6 @@ public class SportsCar extends Car{
     }
 
     public void displayInfo(String OtherInformation) {
-        System.out.println("It was made in China");
+        System.out.println("It was made in Italy");
     }
 }
