@@ -2,7 +2,7 @@ public class testcar {
     public static void testcar(Car car){
         System.out.println("Demostrating real time polymorphsim:");
         car.start();
-        car.displayInfo();
+        car.displayInfo("Base class");
 
             }
 
